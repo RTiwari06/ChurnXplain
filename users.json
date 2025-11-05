@@ -1,0 +1,14 @@
+{
+    "admin_riya": {
+        "password": "Abcd1234@"
+    },
+    "admin_xyz": {
+        "password": "Adminxyz1"
+    },
+    "admin_abc": {
+        "password": "Abcd123"
+    },
+    "admin_abcd": {
+        "password": "Abcd123"
+    }
+}

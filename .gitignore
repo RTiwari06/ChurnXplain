@@ -1,0 +1,8 @@
+﻿Project.mp4
+models/*.pkl
+*.db
+*.sqlite
+*.log
+*.zip
+.DS_Store
+Thumbs.db

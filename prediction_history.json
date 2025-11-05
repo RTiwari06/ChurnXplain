@@ -1,0 +1,282 @@
+[
+    {
+        "timestamp": "2025-10-16 23:02:16",
+        "admin": "admin_xyz",
+        "customer": "Customer 1",
+        "probability": 0.08,
+        "features": [
+            {
+                "feature": "Contract_Two year",
+                "shap_value": -2.347909927368164
+            },
+            {
+                "feature": "tenure",
+                "shap_value": -1.0905510187149048
+            },
+            {
+                "feature": "MonthlyCharges",
+                "shap_value": -0.6630241274833679
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": -0.6227201819419861
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": -0.45217660069465637
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-16 23:02:16",
+        "admin": "admin_xyz",
+        "customer": "Customer 2",
+        "probability": 56.00000000000001,
+        "features": [
+            {
+                "feature": "tenure",
+                "shap_value": -0.7994260787963867
+            },
+            {
+                "feature": "StreamingTV_Yes",
+                "shap_value": 0.5511186718940735
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": 0.42944711446762085
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": 0.4107942581176758
+            },
+            {
+                "feature": "Contract_Two year",
+                "shap_value": 0.37042900919914246
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-16 23:02:16",
+        "admin": "admin_xyz",
+        "customer": "Customer 3",
+        "probability": 1.97,
+        "features": [
+            {
+                "feature": "Contract_One year",
+                "shap_value": -1.0645794868469238
+            },
+            {
+                "feature": "tenure",
+                "shap_value": -0.9013881087303162
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": -0.2937617301940918
+            },
+            {
+                "feature": "StreamingMovies_Yes",
+                "shap_value": -0.27184635400772095
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": -0.2264779657125473
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-16 23:02:16",
+        "admin": "admin_xyz",
+        "customer": "Customer 4",
+        "probability": 73.19,
+        "features": [
+            {
+                "feature": "tenure",
+                "shap_value": 1.3806508779525757
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": 0.5318096876144409
+            },
+            {
+                "feature": "PaymentMethod_Credit card (automatic)",
+                "shap_value": -0.42478588223457336
+            },
+            {
+                "feature": "Contract_Two year",
+                "shap_value": 0.4133605659008026
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": 0.3564895689487457
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-16 23:02:17",
+        "admin": "admin_xyz",
+        "customer": "Customer 5",
+        "probability": 7.42,
+        "features": [
+            {
+                "feature": "tenure",
+                "shap_value": -0.832244873046875
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": -0.6935272216796875
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": -0.5069064497947693
+            },
+            {
+                "feature": "SeniorCitizen",
+                "shap_value": 0.4691084921360016
+            },
+            {
+                "feature": "TechSupport_Yes",
+                "shap_value": -0.32661062479019165
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-26 20:01:59",
+        "admin": "admin_abcd",
+        "customer": "Customer 1",
+        "probability": 0.08,
+        "features": [
+            {
+                "feature": "Contract_Two year",
+                "shap_value": -2.347909927368164
+            },
+            {
+                "feature": "tenure",
+                "shap_value": -1.0905510187149048
+            },
+            {
+                "feature": "MonthlyCharges",
+                "shap_value": -0.6630241274833679
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": -0.6227201819419861
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": -0.45217660069465637
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-26 20:01:59",
+        "admin": "admin_abcd",
+        "customer": "Customer 2",
+        "probability": 56.00000000000001,
+        "features": [
+            {
+                "feature": "tenure",
+                "shap_value": -0.7994260787963867
+            },
+            {
+                "feature": "StreamingTV_Yes",
+                "shap_value": 0.5511186718940735
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": 0.42944711446762085
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": 0.4107942581176758
+            },
+            {
+                "feature": "Contract_Two year",
+                "shap_value": 0.37042900919914246
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-26 20:01:59",
+        "admin": "admin_abcd",
+        "customer": "Customer 3",
+        "probability": 1.97,
+        "features": [
+            {
+                "feature": "Contract_One year",
+                "shap_value": -1.0645794868469238
+            },
+            {
+                "feature": "tenure",
+                "shap_value": -0.9013881087303162
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": -0.2937617301940918
+            },
+            {
+                "feature": "StreamingMovies_Yes",
+                "shap_value": -0.27184635400772095
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": -0.2264779657125473
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-26 20:02:00",
+        "admin": "admin_abcd",
+        "customer": "Customer 4",
+        "probability": 73.19,
+        "features": [
+            {
+                "feature": "tenure",
+                "shap_value": 1.3806508779525757
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": 0.5318096876144409
+            },
+            {
+                "feature": "PaymentMethod_Credit card (automatic)",
+                "shap_value": -0.42478588223457336
+            },
+            {
+                "feature": "Contract_Two year",
+                "shap_value": 0.4133605659008026
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": 0.3564895689487457
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-26 20:02:00",
+        "admin": "admin_abcd",
+        "customer": "Customer 5",
+        "probability": 7.42,
+        "features": [
+            {
+                "feature": "tenure",
+                "shap_value": -0.832244873046875
+            },
+            {
+                "feature": "TotalCharges",
+                "shap_value": -0.6935272216796875
+            },
+            {
+                "feature": "InternetService_Fiber optic",
+                "shap_value": -0.5069064497947693
+            },
+            {
+                "feature": "SeniorCitizen",
+                "shap_value": 0.4691084921360016
+            },
+            {
+                "feature": "TechSupport_Yes",
+                "shap_value": -0.32661062479019165
+            }
+        ]
+    }
+]
