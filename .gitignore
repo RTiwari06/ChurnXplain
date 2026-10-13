@@ -25,7 +25,7 @@ env/
 # Local user accounts and prediction history
 users.json
 users.db
-admins*
+admins.csv
 prediction_history.json
 
 # Temporary backups and patches
