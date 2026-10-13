@@ -17,6 +17,22 @@ ChurnXplain is a machine-learning project that estimates customer churn risk fro
 - **Prediction history** for reviewing previous runs in the local dashboard.
 - **CSV report export** including predicted churn status, probability, suggested actions, and model input features.
 
+
+## Dashboard Preview
+
+### Churn Prediction & Retention Recommendations
+
+The dashboard predicts customer churn probability and provides rule-based retention suggestions for each customer.
+
+![ChurnXplain prediction results](screenshots/churn-prediction-results.jpeg)
+
+### Explainable AI with SHAP
+
+SHAP feature contributions help explain which input features influence an individual model prediction.
+
+![SHAP feature contribution chart](screenshots/shap-explanation.png)
+
+
 ## How it works
 
 1. **Preprocess the data** — clean the telecom dataset and encode categorical variables.
